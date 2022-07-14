@@ -4,7 +4,7 @@
   box-sizing:border-box;
 }
 
-.header {
+header {
   height:50px;
   background-color:#ff9a4b;
 }
@@ -58,6 +58,11 @@ main {
 
 .box-title {
   margin: 15px 0 5px;
+}
+
+.footer {
+  height:50px;
+  background-color:#aaa
 }
 
 
